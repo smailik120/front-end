@@ -1,0 +1,12 @@
+﻿.color-text {
+background-color:#DAA520;
+display: inline-block;
+width:70%;
+height:5%;
+margin: 120px 10px 10px 0; /* Отступы */
+}
+.square {
+float:left;
+display: inline-block;
+margin: 100px 100px 100px 100px; /* Отступы */
+}
